@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fire-fill</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B-首页/导航下拉菜单" transform="translate(-360.000000, -102.000000)">
+            <g id="编组-2" transform="translate(360.000000, 100.000000)">
+                <g id="fire-fill" transform="translate(0.000000, 2.000000)">
+                    <polygon id="路径" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M12,23 C8.92485129,22.9997372 6.16144847,21.1223101 5.02834599,18.263531 C3.89524351,15.4047518 4.62206166,12.1439447 6.862,10.037 C8.204,8.774 11.5,6.5 11,1.5 C17,5.5 20,9.5 14,15.5 C15,15.5 16.5,15.5 19,13.03 C19.27,13.803 19.5,14.634 19.5,15.5 C19.5,19.6421356 16.1421356,23 12,23 Z" id="路径" fill="#EDA30F" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

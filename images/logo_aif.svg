@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>aif-color</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="B-首页/导航下拉菜单" transform="translate(-360.000000, -160.000000)" fill-rule="nonzero">
+            <g id="编组-2" transform="translate(360.000000, 100.000000)">
+                <g id="Navigation/SideMenu/☀︎/Main/Icon/Clickable-#" transform="translate(0.000000, 52.000000)">
+                    <g id="编组" transform="translate(0.000000, 8.000000)">
+                        <rect id="矩形" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                        <g id="彩色logo" transform="translate(0.101642, 2.258740)">
+                            <path d="M17.7510299,19.0413223 L23.716397,19.0413223 L20.3322686,12.8526385 C20.3322686,12.8753412 16.6572879,12.1866793 14.0014738,15.5844156 L14.8500638,17.2810494 C15.4220853,18.3454005 16.5252696,19.0413223 17.7510299,19.0413223 Z" id="Combined-Shape" fill="#666666"></path>
+                            <path d="M9.87736472,19.0413223 C9.87736472,19.0413223 12.1129823,12.0077694 20.3644434,11.390791 C20.3644434,11.390791 21.3471969,11.3071533 21.5025759,11.3496591 C21.5025759,11.3496591 13.3730576,5.46779906 0,19.0001904 L9.87736472,19.0413223 Z" id="XMLID_1742_" fill="#FF730C"></path>
+                            <path d="M14.0562836,0 L9.07973537,0 L2.65167887,12.582136 C4.609717,10.1830297 7.29329807,8.84762208 10.3440855,7.77662111 C13.394873,6.70562005 16.7014923,7.19155869 18.0364922,7.77662111 L14.0562836,0 Z" id="XMLID_1522_" fill="#19BB20"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
